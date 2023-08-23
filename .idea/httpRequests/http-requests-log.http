@@ -1,0 +1,72 @@
+GET http://localhost:8080/number?number=nty
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-23T190954.200.txt
+
+###
+
+GET http://localhost:8080/hello?number=nty
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-23T190934.200.txt
+
+###
+
+GET http://localhost:8080/hello?number=nty
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-23T190932.200.txt
+
+###
+
+GET http://localhost:8080/hello?number=27
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-23T190912.200.txt
+
+###
+
+GET http://localhost:8080/hello?name=amy
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-23T190900.200.txt
+
+###
+
+GET http://localhost:8080/hello?amy=
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-23T190850.200.txt
+
+###
+
+GET http://localhost:8080/helloamy
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-23T190834.404.json
+
+###
+
+GET http://localhost:8080/hello
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-23T190818.200.txt
+
+###
+
